@@ -1,0 +1,11 @@
+python-telegram-bot>=20.0
+requests
+python-dotenv
+dnspython
+python-whois
+Pillow
+pyexiftool
+pytz
+python-nmap
+sqlalchemy
+apscheduler
